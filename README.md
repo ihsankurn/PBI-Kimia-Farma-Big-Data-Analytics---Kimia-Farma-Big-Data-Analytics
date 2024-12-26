@@ -1,6 +1,6 @@
 # Project Based Internship Program - Kimia Farma Big Data Analytics
 
-Proyek ini merupakan bagian dari program magang berbasis proyek di bidang **Big Data Analytics** yang bekerja sama dengan **Kimia Farma**. Proyek ini mencakup analisis data menggunakan Power BI dan bahasa SQL untuk menghasilkan dashboard dan wawasan data.
+Proyek ini merupakan bagian dari program magang berbasis proyek di bidang **Big Data Analytics** yang bekerja sama dengan **Kimia Farma**. Proyek ini mencakup analisis data menggunakan Looker Studio dan bahasa SQL (Google BigQuery) untuk menghasilkan dashboard dan wawasan data.
 
 ## 🚀 Fitur Utama
 - **Dashboard Power BI**: Menampilkan visualisasi data yang interaktif.
@@ -12,10 +12,10 @@ Berikut adalah struktur file pada repositori ini:
 
 
 ## 📊 Dashboard
-Dashboard dibuat menggunakan **Power BI** untuk memberikan wawasan terkait pola transaksi dan performa bisnis.
+Dashboard dibuat menggunakan **Looker Studio** untuk memberikan wawasan terkait pola transaksi dan performa bisnis.
 
 ### Screenshot Dashboard
-*(Tambahkan screenshot dari dashboard Power BI Anda di sini jika memungkinkan)*
+*![image](https://github.com/user-attachments/assets/76bfad02-65d8-4c26-a580-c3fa8156823a)*
 
 ## 📜 Laporan dan Presentasi
 - Laporan proyek: [FINAL TASK PBI - IHSAN KURNIAWAN.pdf](./FINAL%20TASK%20PBI%20-%20IHSAN%20KURNIAWAN.pdf)
