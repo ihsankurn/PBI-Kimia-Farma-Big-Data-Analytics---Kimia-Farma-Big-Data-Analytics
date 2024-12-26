@@ -3,7 +3,7 @@
 Proyek ini merupakan bagian dari program magang berbasis proyek di bidang **Big Data Analytics** yang bekerja sama dengan **Kimia Farma**. Proyek ini mencakup analisis data menggunakan Looker Studio dan bahasa SQL (Google BigQuery) untuk menghasilkan dashboard dan wawasan data.
 
 ## 🚀 Fitur Utama
-- **Dashboard Power BI**: Menampilkan visualisasi data yang interaktif.
+- **Dashboard**: Menampilkan visualisasi data yang interaktif.
 - **Analisis Data SQL**: Query untuk manipulasi dan analisis data.
 - **Dataset**: Data transaksi terkait dengan operasi Kimia Farma.
 
