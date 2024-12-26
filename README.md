@@ -40,7 +40,7 @@ File `data_transaction.sql` berisi query SQL yang digunakan untuk menganalisis d
 ## 📧 Kontak
 Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi:
 - **Nama**: Ihsan Kurniawan
-- **Email**: *(ihsankurn@gmail.com)*
+- **Email**: *ihsankurn@gmail.com*
 
 ---
 
